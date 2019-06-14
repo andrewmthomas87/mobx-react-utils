@@ -1,0 +1,20 @@
+{
+  "name": "mobx-react-utils",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc --project ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewmthomas87/mobx-react-utils.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  },
+  "peerDependencies": {
+    "@types/react": "^16.8.20"
+  }
+}
